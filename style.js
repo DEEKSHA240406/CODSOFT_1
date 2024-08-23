@@ -7,7 +7,6 @@ window.onscroll = function () {
     $("nav").removeClass("nav-active");
   }
 };
-
 $(".close").on("click", function () {
   $(this)
     .parent()
